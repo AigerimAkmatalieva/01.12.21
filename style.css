@@ -63,9 +63,6 @@ body {
 .wrapper {
  padding: 50px 0;
 }
-.wrap {
-  gap: 20px;
-}
 .card {
   max-width: 1200px;
   margin: 0 auto;
@@ -84,6 +81,7 @@ body {
   background-color: white;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(34, 33, 33, 0.521);
+  padding: 10px 15px;
 }
 .card3 {
   border: 2px solid orange;
